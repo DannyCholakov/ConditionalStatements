@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/bin/Debug/net6.0/WorldsSwimmingRecord
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/bin/Debug/net6.0/WorldsSwimmingRecord.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/bin/Debug/net6.0/WorldsSwimmingRecord.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/bin/Debug/net6.0/WorldsSwimmingRecord.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/bin/Debug/net6.0/WorldsSwimmingRecord.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/WorldsSwimmingRecord.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/WorldsSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/WorldsSwimmingRecord.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/WorldsSwimmingRecord.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/WorldsSwimmingRecord.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/WorldsSwimmingRecord.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/refint/WorldsSwimmingRecord.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/WorldsSwimmingRecord.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/WorldsSwimmingRecord.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/WorldsSwimmingRecord/obj/Debug/net6.0/ref/WorldsSwimmingRecord.dll

@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/bin/Debug/net6.0/ToyShop
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/bin/Debug/net6.0/ToyShop.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/bin/Debug/net6.0/ToyShop.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/bin/Debug/net6.0/ToyShop.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/bin/Debug/net6.0/ToyShop.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/ToyShop.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/ToyShop.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/ToyShop.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/ToyShop.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/ToyShop.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/refint/ToyShop.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/ToyShop.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/ToyShop.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/ToyShop/obj/Debug/net6.0/ref/ToyShop.dll

@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/bin/Debug/net6.0/AreaOfFigures
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/bin/Debug/net6.0/AreaOfFigures.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/bin/Debug/net6.0/AreaOfFigures.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/bin/Debug/net6.0/AreaOfFigures.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/bin/Debug/net6.0/AreaOfFigures.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/AreaOfFigures.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/AreaOfFigures.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/AreaOfFigures.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/AreaOfFigures.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/AreaOfFigures.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/refint/AreaOfFigures.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/AreaOfFigures.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/AreaOfFigures.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/AreaOfFigures/obj/Debug/net6.0/ref/AreaOfFigures.dll

@@ -1,0 +1,15 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/bin/Debug/net6.0/Shopping
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/bin/Debug/net6.0/Shopping.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/bin/Debug/net6.0/Shopping.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/bin/Debug/net6.0/Shopping.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/bin/Debug/net6.0/Shopping.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/Shopping.csproj.AssemblyReference.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/Shopping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/Shopping.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/Shopping.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/Shopping.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/Shopping.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/refint/Shopping.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/Shopping.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/Shopping.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/ConditionalStatements/Shopping/obj/Debug/net6.0/ref/Shopping.dll
